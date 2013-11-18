@@ -1,0 +1,19 @@
+body {
+  padding-top: 60px; /* 60px to make the container make room for the navigation bar */
+}
+
+div.frame {
+    border: 1px solid blue;
+}
+
+*:focus {
+    outline: 0;
+}
+
+/*div.frame:focus {
+    border: 0;
+}
+
+form:focus {
+    border: 0;
+}*/
